@@ -1,0 +1,33 @@
+permalink: /:year/:month/:day/:title.html
+markdown: kramdown
+highlighter: rouge
+pygments: ture
+
+kramdown:
+  input: GFM
+
+# 作者信息
+author: 
+  name: 琼小资
+  email: vocient@gmail.com
+  link: http://blog.withouz.com
+  github: https://github.com/xzhluo
+
+# 站点信息
+title: 琼小资的博客 
+description: 琼小资的博客
+url: http://blog.withouz.com
+rss_url: /pages/atom.xml
+
+# avatar头像及Favicon
+avatar: /images/my_favicon.jpg
+favicon: /images/bitbug_favicon.ico
+
+# google analytics 设置
+ga:
+  id: UA-58303639-2
+  url: http://xzhluo.github.io
+
+# disqus 设置
+disqus:
+  shortname: xluo
