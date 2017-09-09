@@ -7,14 +7,14 @@ kramdown:
   input: GFM
 
 # 作者信息
-author: 
+author:
   name: 琼小资
   email: vocient@gmail.com
   link: http://blog.withouz.com
   github: https://github.com/xzhluo
 
 # 站点信息
-title: 琼小资的博客 
+title: 琼小资的博客
 description: 琼小资的博客
 url: http://blog.withouz.com
 rss_url: /pages/atom.xml
@@ -22,6 +22,15 @@ rss_url: /pages/atom.xml
 # avatar头像及Favicon
 avatar: /images/my_favicon.jpg
 favicon: /images/bitbug_favicon.ico
+# 网站CSS路径
+css: /assets/css/
+# css: http://7xpapo.com1.z0.glb.clouddn.com/blog/assets/css/
+# 网站JS路径
+js: /assets/js/
+# js: http://7xpapo.com1.z0.glb.clouddn.com/blog/assets/js/
+# 网站图片路径
+image: /assets/image/
+# image: http://7xpapo.com1.z0.glb.clouddn.com/blog/assets/image/
 
 # google analytics 设置
 ga:
