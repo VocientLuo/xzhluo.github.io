@@ -22,15 +22,6 @@ rss_url: /pages/atom.xml
 # avatar头像及Favicon
 avatar: /images/my_favicon.jpg
 favicon: /images/bitbug_favicon.ico
-# 网站CSS路径
-css: /assets/css/
-# css: http://7xpapo.com1.z0.glb.clouddn.com/blog/assets/css/
-# 网站JS路径
-js: /assets/js/
-# js: http://7xpapo.com1.z0.glb.clouddn.com/blog/assets/js/
-# 网站图片路径
-image: /assets/image/
-# image: http://7xpapo.com1.z0.glb.clouddn.com/blog/assets/image/
 
 # google analytics 设置
 ga:
