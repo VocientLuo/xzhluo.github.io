@@ -13,7 +13,7 @@ title: 学习React Native和阮一峰的博客
 每年都会如此，有钱没钱回家过年已经成了一条铁律。
 公司同事也基本都回家了，整个办公室安静了许多，平时紧张的工作心态变得松懈下来。
 结果几乎整整看了一天的博客。
-开始是搜索一些React Native的资料，在github上看到了一个很全的关于React Native的[资源](https://github.com/xzhluo/react-native-guide)汇总List.
+开始是搜索一些React Native的资料，在github上看到了一个很全的关于React Native的[资源](https://github.com/vicent900527/react-native-guide)汇总List.
 资源收集的相当全面，感觉发现了小宝藏，心中甚是激动。于是挨个的浏览了一遍，好的资源fork和star，收入囊中。
 时间主要花在两个链接上。
 
