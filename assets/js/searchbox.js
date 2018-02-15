@@ -17,7 +17,6 @@ $(function(){
             $(".pl__title").each(function(){
                 var htmlstr = $(this).html().toLowerCase();
                 if(htmlstr.indexOf(text) != -1){
-                    console.log(htmlstr);
                     $(this).parent().show();
                 }
             })
